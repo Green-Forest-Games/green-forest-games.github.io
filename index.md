@@ -1,1 +1,1 @@
-[Patreon Info][https://green-forest-games.github.io/patreon-info-server/]
+[Patreon Info](https://green-forest-games.github.io/patreon-info-server/)
